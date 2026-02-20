@@ -332,7 +332,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Faheem Ahmad**
 - GitHub: [@faheemahmad02042019](https://github.com/faheemahmad02042019)
-- LinkedIn: [Faheem Ahmad](https://www.linkedin.com/in/faheemahmad/)
+- LinkedIn: [Faheem Ahmad](https://www.linkedin.com/in/faheemahmad567/)
 
 ---
 
